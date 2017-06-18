@@ -1,4 +1,4 @@
-# ManhattanProject-
+# ManhattanProject
 Manhattan housing project 
 
 File order:
